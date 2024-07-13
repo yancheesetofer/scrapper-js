@@ -12,11 +12,10 @@ To get started with the Book-scraper, follow these steps:
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/yancheesetofer/scrapper-js.git
-   cd book-scraper```
-2. **Install Dependencies**:
-   ```sh
-   npm install
    ```
+
+2. **Install Dependencies**:
+   ```npm instal```
 
 ## Usage
 
